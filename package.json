@@ -1,0 +1,7 @@
+{
+  "name": "british-company",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {}
+}
